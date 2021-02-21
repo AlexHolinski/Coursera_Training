@@ -1,5 +1,5 @@
 # Coursera_Training
-For Coursera "Introduction to Data Sceince" training
+For Coursera "Introduction to Data Science" training
 
 ## Editing the file 
 
